@@ -1,0 +1,18 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>permisos</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">permisos</ion-title>
+    </ion-toolbar>
+  </ion-header>
+<ion-label *ngIF="permission">Prueba permisos</ion-label>
+  <h1> si tienes permisos veras todo estoooo</h1>
+
+  <ion-label *ngIF="!permission">No tienes permisos</ion-label>
+
+</ion-content>

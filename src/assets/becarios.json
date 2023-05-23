@@ -1,0 +1,27 @@
+{
+
+    "data": [
+        {
+        "nombre": "juan",
+        "estado": "hola chavales",
+        "profesion": "abogado y soltero",
+        "image": "/assets/icon/man.jfif"
+        },
+
+        {
+        "nombre": "maria",
+        "estado": "buenas noches y bonitos días",
+        "profesion": "ama de casa",
+        "image": "/assets/icon/woman.png"
+
+        },
+        {
+        "nombre": "Asan",
+        "estado": "La flor de la vida",
+        "profesion": "Fontanero",
+        "image": "/assets/icon/man2.png"
+        }
+    ]
+    }
+
+    
